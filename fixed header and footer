@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>pixel tech</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="hf.css" type="text/css" rel="stylesheet" >
+	
+</head>
+<body>
+     <div class="fixed-header" >
+	 <ul id="list" class="jjjj">
+       <li><h1>PIXEL TECH</h1></li>
+       <div class="header-right">
+	    <li>WELCOME </li>
+     	<li><button  name ="action" type="submit" value="login">LOGIN</button></li>
+     	<li><button  name ="action" type="submit" value="signup">SIGN UP</button></li>
+        </div>
+     </ul>
+     </div>
+     </div>
+	 <div class="container">
+	 </div>
+	 <div class="fixed-footer">
+        <div class="container">Copyright &copy; 2018 PIXEL TECH</div>        
+    </div>
+	 
+	 
+</body>
